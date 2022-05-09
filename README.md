@@ -2,16 +2,18 @@
 
 ### FE simulations:
 
-over twenty years of experience with Finite Element Methods (FEM) for structural, thermal, electromagnetic and fluids analyses for MEMS applications and with numerical methods referred as Reduced Order Modeling (ROM) // ANSA, ANSYS Multiphysics, ANSYS Maxwell, ANSYS HFSS, ANSYS CFX, and ANSYS LS-DYNA
+* over twenty years of experience with Finite Element Methods (FEM) for structural, thermal, electromagnetic and fluids analyses for MEMS applications;
+* numerical methods referred as Reduced Order Modeling (ROM);
+* ANSA, ANSYS Multiphysics, ANSYS Maxwell, ANSYS HFSS, ANSYS CFX, and ANSYS LS-DYNA;
 
 ### MEMS design:
 
-experience with inertial MEMS sensors design like AE sensors, gyroscope, accelerometer, and pressure sensors;
-dimensional design, layout drawing, simulation and optimization; characterization
+* experience with inertial MEMS sensors design like AE sensors, gyroscope, accelerometer, and pressure sensors;
+* dimensional design, layouting, simulation and optimization, characterization;
 
 ### RF design:
 
-* BAW filters design for mobile applications; 
+* BAW filters design for mobile applications (LTE-A); 
 * simulation of complex LPAMiD RF Front-End Modules (containing PAs, LNAs, Switches and Switchplexers) using ADS, AWR, HFSS;
 
 ### Circuit and system design:
