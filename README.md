@@ -18,7 +18,7 @@
 
 ### Circuit and system design:
 
-* PSPICE, Simulink, VHDL-AMS (hAMSter, ANSYS/ANSOFT Simplorer)
+* PSPICE, Simulink, VHDL-AMS (hAMSter, ANSYS/ANSOFT Simplorer; SystemVision/PartQuest)
 
 ### Algorithms/Methods and Code development:
 
