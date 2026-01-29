@@ -1,5 +1,8 @@
 ## about me:
 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kolchuzhin)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kolchuzhin)
+
 ### FE simulations:
 
 * over twenty years of experience with [Finite Element Methods (FEM) for structural, thermal, electromagnetic and fluids analyses for MEMS applications](https://github.com/Kolchuzhin/FEM_benchmarks);
