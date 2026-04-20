@@ -44,11 +44,14 @@
 ## Publications:
 
 
-### Tutorial:
+### Tutorials:
 * Kolchuzhin, V., Markert, E., & Wagner, C. (2015, March 9). Piezoresistance of Single Walled Carbon Nanotube in VHDL-AMS. Zenodo. 10.5281/zenodo.15923
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15923.svg)](https://doi.org/10.5281/zenodo.15923)
 * Kolchuzhin, Vladimir and Mehner, Jan (2015, June 30). System level modeling of the micromirror cell. Zenodo. 10.5281/zenodo.19153
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19153.svg)](https://doi.org/10.5281/zenodo.19153)
+
+### Presentations:
+* [System-level-models extraction of heterogeneous components from macro to nano](https://doi.org/10.13140/RG.2.2.14566.75840), 09 November 2015
 
 
 <!--
