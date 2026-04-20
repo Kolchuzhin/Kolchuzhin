@@ -53,6 +53,18 @@
 ### Presentations:
 * [System-level-models extraction of heterogeneous components from macro to nano](https://doi.org/10.13140/RG.2.2.14566.75840), 09 November 2015
 
+### Books:
+* ISBN 978-3941003163
+* ISBN 978-3867764414
+* ISBN 978-5778231382
+
+### Patents:
+* RU2630542C1
+* RU233909U1
+* WO2025216821A1
+* US20250293177A1
+* US20250293176A1
+
 
 <!--
 **Kolchuzhin/Kolchuzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
