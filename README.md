@@ -43,6 +43,7 @@
 
 ## Publications:
 
+[Vladimir Kolchuzhin‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=gE1dUzwAAAAJ&hl=de)
 
 ### Tutorials:
 * Kolchuzhin, V., Markert, E., & Wagner, C. (2015, March 9). Piezoresistance of Single Walled Carbon Nanotube in VHDL-AMS. Zenodo. 10.5281/zenodo.15923
@@ -59,9 +60,10 @@
 * ISBN 978-5778231382
 
 ### Patents:
+* RU2503924C1
 * RU2630542C1
 * RU233909U1
-* WO2025216821A1
+* WO2025216821A1, TW202541424A
 * US20250293177A1
 * US20250293176A1
 
