@@ -60,12 +60,12 @@
 * ISBN 978-5778231382
 
 ### Patents:
-* RU2503924C1
-* RU2630542C1
-* RU233909U1
-* WO2025216821A1, TW202541424A
-* US20250293177A1
-* US20250293176A1
+* [RU2503924C1](https://patents.google.com/patent/RU2503924C1/en)
+* [RU2630542C1](https://patents.google.com/patent/RU2630542C1/en)
+* [RU233909U1](https://patents.google.com/patent/RU233909U1/en)
+* [WO2025216821A1](https://patents.google.com/patent/WO2025216821A1/en), [TW202541424A](https://patents.google.com/patent/TW202541424A)
+* [US20250293177A1](https://patents.google.com/patent/US20250293177A1/en)
+* [US20250293176A1](https://patents.google.com/patent/US20250293176A1/en)
 
 
 <!--
