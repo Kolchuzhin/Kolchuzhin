@@ -46,10 +46,12 @@
 [Vladimir Kolchuzhin‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=gE1dUzwAAAAJ&hl=de)
 
 ### Tutorials:
-* Kolchuzhin, V., Markert, E., & Wagner, C. (2015, March 9). Piezoresistance of Single Walled Carbon Nanotube in VHDL-AMS. Zenodo. 10.5281/zenodo.15923
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15923.svg)](https://doi.org/10.5281/zenodo.15923)
-* Kolchuzhin, Vladimir and Mehner, Jan (2015, June 30). System level modeling of the micromirror cell. Zenodo. 10.5281/zenodo.19153
+* Kolchuzhin, V., Markert, E., & Wagner, C. (2015, March 9). Piezoresistance of Single Walled Carbon Nanotube in VHDL-AMS. Zenodo. 10.5281/zenodo.15923
+  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19153.svg)](https://doi.org/10.5281/zenodo.19153)
+* Kolchuzhin, Vladimir and Mehner, Jan (2015, June 30). System level modeling of the micromirror cell. Zenodo. 10.5281/zenodo.19153
+
 
 ### Presentations:
 * [System-level-models extraction of heterogeneous components from macro to nano](https://doi.org/10.13140/RG.2.2.14566.75840), 09 November 2015
@@ -64,8 +66,8 @@
 * [RU2630542C1](https://patents.google.com/patent/RU2630542C1/en)
 * [RU233909U1](https://patents.google.com/patent/RU233909U1/en)
 * [WO2025216821A1](https://patents.google.com/patent/WO2025216821A1/en), [TW202541424A](https://patents.google.com/patent/TW202541424A)
-* [US20250293177A1](https://patents.google.com/patent/US20250293177A1/en)
 * [US20250293176A1](https://patents.google.com/patent/US20250293176A1/en)
+* [US20250293177A1](https://patents.google.com/patent/US20250293177A1/en)
 
 
 <!--
